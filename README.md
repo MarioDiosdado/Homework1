@@ -6,7 +6,7 @@ We are making the *Horiseon* website more accessible, ensuring devices for peopl
 
 **Here we list some of the improvements we made:**
 
-* Added nav ID for the navigation menu
+* Added nav and aside tags for better structure
 * Added alt atributes to images
 * Added a more descriptive title (Hiroseon)
 * Fixed a link that was not working on the navigation menu
